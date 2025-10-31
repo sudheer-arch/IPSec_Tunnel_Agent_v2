@@ -1,0 +1,4 @@
+python-dotenv
+gradio
+requests
+urllib3
