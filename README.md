@@ -19,7 +19,7 @@ This project is a proof-of-concept for an AI-powered agent that analyzes the hea
 2.  **Installation:**
     *   Clone the repository:
         ```bash
-        git clone https://github.com/GauravASY/IPSec_Tunnel_Agent_v2.git
+        git clone https://github.com/sudheer-arch/IPSec_Tunnel_Agent_v2.git
         cd IPSec_Tunnel_Agent_v2
         ```
     * Create a virtual environment:
@@ -40,16 +40,6 @@ This project is a proof-of-concept for an AI-powered agent that analyzes the hea
     *   Install the required Python packages:
         ```bash
         pip install -r requirements.txt
-        ```
-
-3.  **Environment Variables:**
-    *   Create a `.env` file in the root of the project and add the following environment variables:
-        ```
-        FW_HOST=<your-firewall-host>
-        FW_TOKEN=<your-firewall-api-token>
-        LMAAS_URL=<your-llm-api-url>
-        LMAAS_KEY=<your-llm-api-key>
-        MODEL=<your-llm-model-name>
         ```
 
 4.  **Running the Application:**
